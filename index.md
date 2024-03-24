@@ -1,6 +1,10 @@
 # This is 1st lvl header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+- [ ] Task 1
+- [ ] Task 2
+- [x] Task 3
+
 Python calculator code:
 ``` python
 # This function adds two numbers
